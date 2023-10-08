@@ -7,3 +7,9 @@
 
 ## Step 2
 
+## Illustration
+
+![Genetics](img.jpeg)
+
+
+
